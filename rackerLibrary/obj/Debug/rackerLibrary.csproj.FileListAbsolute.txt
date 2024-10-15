@@ -1,0 +1,6 @@
+C:\Demos\TournamentTracker\TournamentTracker\rackerLibrary\bin\Debug\rackerLibrary.dll
+C:\Demos\TournamentTracker\TournamentTracker\rackerLibrary\bin\Debug\rackerLibrary.pdb
+C:\Demos\TournamentTracker\TournamentTracker\rackerLibrary\obj\Debug\rackerLibrary.csproj.AssemblyReference.cache
+C:\Demos\TournamentTracker\TournamentTracker\rackerLibrary\obj\Debug\rackerLibrary.csproj.CoreCompileInputs.cache
+C:\Demos\TournamentTracker\TournamentTracker\rackerLibrary\obj\Debug\rackerLibrary.dll
+C:\Demos\TournamentTracker\TournamentTracker\rackerLibrary\obj\Debug\rackerLibrary.pdb
